@@ -1,11 +1,11 @@
 // ==UserScript==
+// @id           jira-closed-stories@eugenj
 // @name         Show Closed Stories
-// @namespace    https://github.com/eugenj/tr-user-scripts/
+// @version      0.2
+// @namespace    https://github.com/eugenj/tr-user-scripts
 // @updateURL    https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.js
 // @downloadURL  https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.js
-// @version      0.2
 // @description  Allows to show/hide closed stories in jira
-// @author       Evgeny Zhuravlev
 // @match        https://trcmsjira.int.thomsonreuters.com/browse/*
 // @grant        none
 // ==/UserScript==
