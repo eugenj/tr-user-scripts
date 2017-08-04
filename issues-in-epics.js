@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Show Closed Stories
 // @namespace    http://tampermonkey.net/
-// @updateURL    https://github.com/eugenj/tr-user-scripts/blob/master/issues-in-epics.js
+// @updateURL    https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.js
 // @version      0.2
 // @description  try to take over the world!
 // @author       You
