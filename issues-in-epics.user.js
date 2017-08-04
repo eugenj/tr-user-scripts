@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id           jira-closed-stories@eugenj
 // @name         Show Closed Stories
-// @version      0.2
+// @version      0.3
 // @namespace    https://github.com/eugenj/tr-user-scripts
 // @updateURL    https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.user.js
 // @downloadURL  https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.user.js
