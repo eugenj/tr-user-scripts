@@ -3,8 +3,8 @@
 // @name         Show Closed Stories
 // @version      0.2
 // @namespace    https://github.com/eugenj/tr-user-scripts
-// @updateURL    https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.js
-// @downloadURL  https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.js
+// @updateURL    https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.user.js
+// @downloadURL  https://raw.githubusercontent.com/eugenj/tr-user-scripts/master/issues-in-epics.user.js
 // @description  Allows to show/hide closed stories in jira
 // @match        https://trcmsjira.int.thomsonreuters.com/browse/*
 // @grant        none
